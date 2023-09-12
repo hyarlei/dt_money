@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-01-29T12:36:44.505"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-01-28T19:36:44.505"
+    },
+    {
+      "id": 3,
+      "description": "Comida para casa",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 760,
+      "createdAt": "2023-01-28T14:16:14.505"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-01-30T02:12:09.812Z",
+      "id": 4
+    },
+    {
+      "description": "Pastelzinho",
+      "price": 10,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-01-30T02:14:28.855Z",
+      "id": 5
+    },
+    {
+      "description": "Ignite Rockeseat",
+      "price": 1980,
+      "category": "Estudos",
+      "type": "outcome",
+      "createdAt": "2023-01-30T02:36:21.461Z",
+      "id": 6
+    },
+    {
+      "description": "Macbook Air M1 256GB",
+      "price": 6500,
+      "category": "Tecnologia",
+      "type": "outcome",
+      "createdAt": "2023-01-30T18:47:55.780Z",
+      "id": 8
+    }
+  ]
+}
