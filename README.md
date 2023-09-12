@@ -1,6 +1,6 @@
 Tela Inicial  
 :-------------------------:|
-<img src= "./public/home.jpg">
+<img src= ".././public/home.jpg">
 
 Modal de transação  
 :-------------------------:|
